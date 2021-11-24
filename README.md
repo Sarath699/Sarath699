@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sarath
+-  # 👋 Hi, I’m Sarath
 - 🎓 I've completed my Bachelors of Engineering in EEE from Sri Venkateswara College of engineering & techonology.
 - 👀 I’m interested in Machine Learning and Deep Learning Projects
 - 🌱 I’m currently learning From Coursera, Udemy and Kaggle
